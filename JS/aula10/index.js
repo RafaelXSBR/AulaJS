@@ -32,3 +32,16 @@ console.log(contador);
 let contador1 = 10;
 console.log(--contador1);
 console.log(--contador1); 
+
+/**
+ * operado de atribuição
+ * *= += **=
+ */
+let contador2 = 2;
+contador2*=2;
+contador2*=2;
+contador2*=2;
+console.log(contador2);
+let contador4 =2;
+contador4 **=10;
+console.log(contador4);
