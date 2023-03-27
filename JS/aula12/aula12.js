@@ -1,10 +1,7 @@
 let A = 'A';
 let B = 'B';
 let C = 'C';
-let D;
-D=A;
-A=B;
-B=C;
-C=D;
+
+[A, B, C] = [B, C, A];
 
 console.log(A, B, C);
