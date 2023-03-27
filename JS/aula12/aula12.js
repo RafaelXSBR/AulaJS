@@ -3,8 +3,8 @@ let B = 'B';
 let C = 'C';
 let D;
 D=A;
-A=C;
-C=B;
-B=D;
+A=B;
+B=C;
+C=D;
 
 console.log(A, B, C);
