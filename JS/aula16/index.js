@@ -4,6 +4,7 @@ const removido =alunos.shift(); //remove do inicio
 //const removido =alunos.pop(); //  remove do fim
 
 console.log(removido);
+
 console.log(alunos);
 //alunos.unshift('Luiza'); //adiciona no inicio
 //alunos.unshift('fabio');
